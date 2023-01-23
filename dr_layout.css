@@ -36,7 +36,7 @@ body {
 body > header > nav > ul {
 	display: block;
 	width: 100%;
-	background-color: #ff80ff;
+	background-color: #80ffa4;
 	height: 30px;
 }
 
@@ -66,12 +66,12 @@ body > header > nav > ul > li > a:visited {
 
 body > header > nav > ul > li > a:hover {
 	color: white;
-	background-color: #e56db6;
+	background-color: #6de58b;
 }
 
 body > header > nav > ul > li > a:active {
 	color: white;
-	background-color: #c20563;
+	background-color: #05c24a;
 }
 
 body section:first-of-type {
@@ -85,12 +85,12 @@ body section:nth-of-type(2) {
 
 body section:nth-of-type(2) header h1 {
 	font-size: 1.1em;
-	color: #c04198;
+	color: #41c078;
 }
 
 body section:nth-of-type(2)  h2 {
 	font-size: 0.9em;
-	color: #c04198;
+	color: #41c078;
 }
 
 body section:nth-of-type(2) header img {
@@ -102,16 +102,16 @@ body section:nth-of-type(2) p, body section:nth-of-type(2) li {
 }
 
 body section:nth-of-type(2) a {
-	color: #c04198;
+	color: #41c098;
 }
 
 body section:nth-of-type(2) a:visited {
-	color: #c04198;
+	color: #41c098;
 }
 
 footer {
 	clear: left;
-	background-color: #ff80ff;
+	background-color: #80ffa4;
 	color: white;
 	text-align:center;
 	vertical-align: middle;
