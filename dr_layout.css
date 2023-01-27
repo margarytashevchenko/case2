@@ -35,7 +35,7 @@ body {
 
 body > header > nav > ul {
 	display: block;
-	width: 100%;
+	width: 96%;
 	background-color: #80ffa4;
 	height: 30px;
 }
@@ -79,7 +79,7 @@ body section:first-of-type {
 }
 
 body section:nth-of-type(2) {
-	width: 94%;
+	width: 100%;
 	margin: 0px auto;
 }
 

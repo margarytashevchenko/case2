@@ -35,7 +35,7 @@ body {
 
 body > header > nav > ul {
 	display: block;
-	width: 100%;
+	width: 96%;
 	background-color: #ff80ff;
 	height: 30px;
 }
